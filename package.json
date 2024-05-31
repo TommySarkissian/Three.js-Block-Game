@@ -1,0 +1,21 @@
+{
+  "name": "threejs-block-game",
+  "version": "1.0.0",
+  "description": "A block game built with Three.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["threejs", "block-game", "webgl", "3d"],
+  "author": "Tommy Sarkissian",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.18.2",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
