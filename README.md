@@ -14,11 +14,30 @@ A block game built with Three.js and Express. This project demonstrates how to c
 
 ## Installation
 
-To set up the project locally, follow these steps:
+1. Ensure that [Node.js](https://nodejs.org/) is installed on your machine.
+2. Clone the repository:
 
-1. **Clone the repository**
+    ```bash
+    git clone https://github.com/TommySarkissian/Three.js-Block-Game.git
+    ```
 
-   Clone the repository to your local machine using the following command:
+3. Navigate to the project directory:
 
-   ```bash
-   git clone https://github.com/your-repo/threejs-block-game.git
+    ```bash
+    cd Three.js-Block-Game
+    ```
+
+4. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+### Development
+
+To run the application in development mode with auto-restart using `nodemon`:
+
+```bash
+npm run dev
