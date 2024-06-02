@@ -1,12 +1,12 @@
 # Three.js Block Game
 
-A block game built with Three.js and Express. This project demonstrates how to create a 3D block game using the Three.js library for rendering and Express.js for serving the application.
+Three.js Block Game is an engaging 3D block game built using the Three.js library for rendering and Express.js for serving the application.
 
 ## Features
 
-- 3D graphics powered by Three.js
-- Responsive controls for player movement
-- Simple server setup with Express.js
+- **3D Graphics**: Experience stunning 3D visuals powered by Three.js.
+- **Responsive Controls**: Enjoy smooth and responsive controls for player movement.
+- **Simple Server Setup**: Utilize Express.js for an efficient server setup.
 
 ## Screenshot
 
@@ -41,3 +41,14 @@ To run the application in development mode with auto-restart using `nodemon`:
 
 ```bash
 npm run dev
+```
+
+To run the application in production mode:
+
+```bash
+npm start
+```
+
+## Contributing
+
+We welcome contributions to improve the Three.js Block Game! Please fork the repository and submit pull requests.
