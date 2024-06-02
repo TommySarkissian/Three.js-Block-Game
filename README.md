@@ -51,4 +51,4 @@ npm start
 
 ## Contributing
 
-We welcome contributions to improve the Three.js Block Game! Please fork the repository and submit pull requests.
+We welcome contributions to improve the `Three.js Block Game`! Please fork the repository and submit pull requests.
