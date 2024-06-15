@@ -10,7 +10,7 @@ Three.js Block Game is an engaging 3D block game built using the Three.js librar
 
 ## Screenshot
 
-![Gameplay](https://i.imgur.com/HPEzP18.png)
+<img src="https://i.imgur.com/HPEzP18.png" alt="Gameplay" width="100%">
 
 ## Installation
 
